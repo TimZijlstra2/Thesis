@@ -1,0 +1,80 @@
+match_id,round,date,time,home_team,away_team,home_handle,away_handle,trigger_types,red_card,controversie,player_error,scrape_start_utc,scrape_end_utc
+M001,1,9 augustus 2024,20:00,FC Groningen,NAC Breda,@fcgroningen,@NACnl,No,Yes,Yes,No,2024-08-08T18:00:00+00:00,2024-08-10T06:00:00+00:00
+M002,1,10 augustus 2024,20:00,Almere City FC,AZ,@AlmereCityFC,@AZAlkmaar,No,Yes,No,No,2024-08-09T18:00:00+00:00,2024-08-11T06:00:00+00:00
+M003,2,17 augustus 2024,21:00,RKC Waalwijk,FC Groningen,@RKCWAALWIJK,@fcgroningen,No,Yes,No,No,2024-08-16T19:00:00+00:00,2024-08-18T07:00:00+00:00
+M004,3,24 augustus 2024,18:45,NEC,PEC Zwolle,@necnijmegen,@PECZwolle,No,Yes,No,No,2024-08-23T16:45:00+00:00,2024-08-25T04:45:00+00:00
+M005,3,24 augustus 2024,21:00,NAC Breda,FC Utrecht,@NACnl,@fcutrecht,No,Yes,No,No,2024-08-23T19:00:00+00:00,2024-08-25T07:00:00+00:00
+M006,3,25 augustus 2024,14:30,Sparta,Feyenoord,@SpartaRotterdam,@Feyenoord,Derby/Rivalry Match,Yes,No,No,2024-08-24T12:30:00+00:00,2024-08-26T00:30:00+00:00
+M007,3,25 augustus 2024,16:45,Go Ahead Eagles,RKC Waalwijk,@GAEagles,@RKCWAALWIJK,No,Yes,No,No,2024-08-24T14:45:00+00:00,2024-08-26T02:45:00+00:00
+M008,3,18 september 2024,20:00,Ajax,Fortuna Sittard,@AFCAjax,@FortunaSittard,No,Yes,No,No,2024-09-17T18:00:00+00:00,2024-09-19T06:00:00+00:00
+M009,4,30 augustus 2024,20:00,RKC Waalwijk,AZ,@RKCWAALWIJK,@AZAlkmaar,No,Yes,No,No,2024-08-29T18:00:00+00:00,2024-08-31T06:00:00+00:00
+M010,4,30 oktober 2024,18:00,Feyenoord,Ajax,@Feyenoord,@AFCAjax,Derby/Rivalry Match,No,No,No,2024-10-29T17:00:00+00:00,2024-10-31T05:00:00+00:00
+M011,5,14 september 2024,16:30,PSV,NEC,@PSV,@necnijmegen,No,Yes,No,No,2024-09-13T14:30:00+00:00,2024-09-15T02:30:00+00:00
+M012,5,14 september 2024,21:00,AZ,SC Heerenveen,@AZAlkmaar,@scHeerenveen,Rivalry Match,No,No,No,2024-09-13T19:00:00+00:00,2024-09-15T07:00:00+00:00
+M013,5,15 september 2024,14:30,Willem II,RKC Waalwijk,@WillemII,@RKCWAALWIJK,Derby/Rivalry Match,No,No,No,2024-09-14T12:30:00+00:00,2024-09-16T00:30:00+00:00
+M014,5,4 december 2024,20:00,Ajax,FC Utrecht,@AFCAjax,@fcutrecht,Derby/Rivalry Match,No,No,No,2024-12-03T19:00:00+00:00,2024-12-05T07:00:00+00:00
+M015,6,22 september 2024,12:15,SC Heerenveen,FC Groningen,@scHeerenveen,@fcgroningen,Derby/Rivalry Match,Yes,No,No,2024-09-21T10:15:00+00:00,2024-09-22T22:15:00+00:00
+M016,8,5 oktober 2024,18:45,NAC Breda,NEC,@NACnl,@necnijmegen,No,Yes,No,No,2024-10-04T16:45:00+00:00,2024-10-06T04:45:00+00:00
+M017,8,5 oktober 2024,20:00,PSV,Sparta,@PSV,@SpartaRotterdam,No,Yes,No,No,2024-10-04T18:00:00+00:00,2024-10-06T06:00:00+00:00
+M018,8,5 oktober 2024,21:00,FC Utrecht,RKC Waalwijk,@fcutrecht,@RKCWAALWIJK,No,Yes,No,No,2024-10-04T19:00:00+00:00,2024-10-06T07:00:00+00:00
+M019,8,6 oktober 2024,12:15,Go Ahead Eagles,Heracles Almelo,@GAEagles,@HeraclesAlmelo,Derby/Rivalry Match,No,No,No,2024-10-05T10:15:00+00:00,2024-10-06T22:15:00+00:00
+M020,8,6 oktober 2024,14:30,Feyenoord,FC Twente,@Feyenoord,@fctwente,Rivalry Match,No,No,No,2024-10-05T12:30:00+00:00,2024-10-07T00:30:00+00:00
+M021,9,19 oktober 2024,16:30,Sparta,Almere City FC,@SpartaRotterdam,@AlmereCityFC,No,Yes,No,Yes,2024-10-18T14:30:00+00:00,2024-10-20T02:30:00+00:00
+M022,9,19 oktober 2024,18:45,AZ,PSV,@AZAlkmaar,@PSV,Rivalry Match,Yes,No,No,2024-10-18T16:45:00+00:00,2024-10-20T04:45:00+00:00
+M023,9,20 oktober 2024,14:30,Heracles Almelo,Ajax,@HeraclesAlmelo,@AFCAjax,No,Yes,No,No,2024-10-19T12:30:00+00:00,2024-10-21T00:30:00+00:00
+M024,10,25 oktober 2024,20:00,Almere City FC,NEC,@AlmereCityFC,@necnijmegen,No,No,No,Yes,2024-10-24T18:00:00+00:00,2024-10-26T06:00:00+00:00
+M025,10,26 oktober 2024,16:30,Fortuna Sittard,FC Groningen,@FortunaSittard,@fcgroningen,No,No,No,Yes,2024-10-25T14:30:00+00:00,2024-10-27T02:30:00+00:00
+M026,10,26 oktober 2024,18:45,PSV,PEC Zwolle,@PSV,@PECZwolle,No,Yes,No,No,2024-10-25T16:45:00+00:00,2024-10-27T04:45:00+00:00
+M027,10,26 oktober 2024,20:00,NAC Breda,RKC Waalwijk,@NACnl,@RKCWAALWIJK,No,Yes,No,No,2024-10-25T18:00:00+00:00,2024-10-27T06:00:00+00:00
+M028,10,27 oktober 2024,14:30,FC Twente,Heracles Almelo,@fctwente,@HeraclesAlmelo,Derby/Rivalry Match,No,No,Yes,2024-10-26T13:30:00+00:00,2024-10-28T01:30:00+00:00
+M029,11,2 november 2024,18:45,Ajax,PSV,@AFCAjax,@PSV,Derby/Rivalry Match,No,No,No,2024-11-01T17:45:00+00:00,2024-11-03T05:45:00+00:00
+M030,11,2 november 2024,21:00,Feyenoord,AZ,@Feyenoord,@AZAlkmaar,Derby/Rivalry Match,No,No,No,2024-11-01T20:00:00+00:00,2024-11-03T08:00:00+00:00
+M031,11,3 november 2024,12:15,Go Ahead Eagles,PEC Zwolle,@GAEagles,@PECZwolle,Derby/Rivalry Match,No,No,No,2024-11-02T11:15:00+00:00,2024-11-03T23:15:00+00:00
+M032,11,3 november 2024,14:30,Sparta,FC Utrecht,@SpartaRotterdam,@fcutrecht,No,Yes,No,No,2024-11-02T13:30:00+00:00,2024-11-04T01:30:00+00:00
+M033,12,9 november 2024,18:45,PEC Zwolle,Fortuna Sittard,@PECZwolle,@FortunaSittard,No,Yes,No,No,2024-11-08T17:45:00+00:00,2024-11-10T05:45:00+00:00
+M034,12,9 november 2024,21:00,RKC Waalwijk,NEC,@RKCWAALWIJK,@necnijmegen,No,Yes,No,No,2024-11-08T20:00:00+00:00,2024-11-10T08:00:00+00:00
+M035,12,10 november 2024,14:30,FC Twente,Ajax,@fctwente,@AFCAjax,Rivalry Match,No,No,No,2024-11-09T13:30:00+00:00,2024-11-11T01:30:00+00:00
+M036,12,10 november 2024,14:30,SC Heerenveen,Go Ahead Eagles,@scHeerenveen,@GAEagles,No,No,Yes,No,2024-11-09T13:30:00+00:00,2024-11-11T01:30:00+00:00
+M037,13,24 november 2024,14:30,Willem II,NAC Breda,@WillemII,@NACnl,Derby/Rivalry Match,No,No,No,2024-11-23T13:30:00+00:00,2024-11-25T01:30:00+00:00
+M038,14,1 december 2024,14:30,FC Twente,Go Ahead Eagles,@fctwente,@GAEagles,Derby/Rivalry Match,No,No,No,2024-11-30T13:30:00+00:00,2024-12-02T01:30:00+00:00
+M039,15,6 december 2024,20:00,PSV,FC Twente,@PSV,@fctwente,Rivalry Match,No,No,No,2024-12-05T19:00:00+00:00,2024-12-07T07:00:00+00:00
+M040,15,8 december 2024,14:30,AZ,Ajax,@AZAlkmaar,@AFCAjax,Derby/Rivalry Match,No,No,No,2024-12-07T13:30:00+00:00,2024-12-09T01:30:00+00:00
+M041,16,15 december 2024,12:15,FC Utrecht,Go Ahead Eagles,@fcutrecht,@GAEagles,No,Yes,Yes,No,2024-12-14T11:15:00+00:00,2024-12-15T23:15:00+00:00
+M042,16,15 december 2024,16:45,Ajax,Almere City FC,@AFCAjax,@AlmereCityFC,No,No,Yes,No,2024-12-14T15:45:00+00:00,2024-12-16T03:45:00+00:00
+M043,16,15 december 2024,20:00,NAC Breda,AZ,@NACnl,@AZAlkmaar,No,Yes,No,No,2024-12-14T19:00:00+00:00,2024-12-16T07:00:00+00:00
+M044,17,20 december 2024,20:00,RKC Waalwijk,PEC Zwolle,@RKCWAALWIJK,@PECZwolle,No,No,Yes,No,2024-12-19T19:00:00+00:00,2024-12-21T07:00:00+00:00
+M045,17,21 december 2024,20:00,AZ,FC Twente,@AZAlkmaar,@fctwente,Rivalry Match,No,No,No,2024-12-20T19:00:00+00:00,2024-12-22T07:00:00+00:00
+M046,17,22 december 2024,14:30,PSV,Feyenoord,@PSV,@Feyenoord,Derby/Rivalry Match,No,No,No,2024-12-21T13:30:00+00:00,2024-12-23T01:30:00+00:00
+M047,17,22 december 2024,14:30,FC Utrecht,Fortuna Sittard,@fcutrecht,@FortunaSittard,No,Yes,No,No,2024-12-21T13:30:00+00:00,2024-12-23T01:30:00+00:00
+M048,17,22 december 2024,21:00,Heracles Almelo,FC Groningen,@HeraclesAlmelo,@fcgroningen,No,Yes,No,No,2024-12-21T20:00:00+00:00,2024-12-23T08:00:00+00:00
+M049,18,11 januari 2025,16:30,Heracles Almelo,Sparta,@HeraclesAlmelo,@SpartaRotterdam,No,Yes,No,No,2025-01-10T15:30:00+00:00,2025-01-12T03:30:00+00:00
+M050,18,11 januari 2025,21:00,PSV,AZ,@PSV,@AZAlkmaar,Rivalry Match,No,No,No,2025-01-10T20:00:00+00:00,2025-01-12T08:00:00+00:00
+M051,19,18 januari 2025,16:30,PEC Zwolle,PSV,@PECZwolle,@PSV,No,No,No,Yes,2025-01-17T15:30:00+00:00,2025-01-19T03:30:00+00:00
+M052,20,25 januari 2025,21:00,FC Groningen,SC Heerenveen,@fcgroningen,@scHeerenveen,Derby/Rivalry Match,No,No,No,2025-01-24T20:00:00+00:00,2025-01-26T08:00:00+00:00
+M053,20,26 januari 2025,12:15,Fortuna Sittard,PEC Zwolle,@FortunaSittard,@PECZwolle,No,Yes,No,No,2025-01-25T11:15:00+00:00,2025-01-26T23:15:00+00:00
+M054,20,26 januari 2025,14:30,RKC Waalwijk,Willem II,@RKCWAALWIJK,@WillemII,Derby/Rivalry Match,No,No,No,2025-01-25T13:30:00+00:00,2025-01-27T01:30:00+00:00
+M055,20,23 februari 2025,14:30,Ajax,Go Ahead Eagles,@AFCAjax,@GAEagles,No,Yes,No,No,2025-02-22T13:30:00+00:00,2025-02-24T01:30:00+00:00
+M056,20,23 februari 2025,14:30,FC Twente,NEC,@fctwente,@necnijmegen,No,No,No,Yes,2025-02-22T13:30:00+00:00,2025-02-24T01:30:00+00:00
+M057,21,2 februari 2025,12:15,Almere City FC,RKC Waalwijk,@AlmereCityFC,@RKCWAALWIJK,No,Yes,No,No,2025-02-01T11:15:00+00:00,2025-02-02T23:15:00+00:00
+M058,21,2 februari 2025,14:30,Ajax,Feyenoord,@AFCAjax,@Feyenoord,Derby/Rivalry Match,No,No,No,2025-02-01T13:30:00+00:00,2025-02-03T01:30:00+00:00
+M059,21,2 februari 2025,14:30,Go Ahead Eagles,FC Twente,@GAEagles,@fctwente,Derby/Rivalry Match,No,No,No,2025-02-01T13:30:00+00:00,2025-02-03T01:30:00+00:00
+M060,21,2 februari 2025,20:00,Willem II,AZ,@WillemII,@AZAlkmaar,No,Yes,No,No,2025-02-01T19:00:00+00:00,2025-02-03T07:00:00+00:00
+M061,22,8 februari 2025,16:30,Heracles Almelo,Go Ahead Eagles,@HeraclesAlmelo,@GAEagles,Derby/Rivalry Match,No,No,No,2025-02-07T15:30:00+00:00,2025-02-09T03:30:00+00:00
+M062,22,8 februari 2025,20:00,FC Groningen,NEC,@fcgroningen,@necnijmegen,No,Yes,No,No,2025-02-07T19:00:00+00:00,2025-02-09T07:00:00+00:00
+M063,22,8 februari 2025,21:00,Feyenoord,Sparta,@Feyenoord,@SpartaRotterdam,Derby/Rivalry Match,No,No,No,2025-02-07T20:00:00+00:00,2025-02-09T08:00:00+00:00
+M064,22,9 februari 2025,16:45,SC Heerenveen,FC Twente,@scHeerenveen,@fctwente,No,Yes,Yes,No,2025-02-08T15:45:00+00:00,2025-02-10T03:45:00+00:00
+M065,23,16 februari 2025,12:15,NEC,Almere City FC,@necnijmegen,@AlmereCityFC,No,No,Yes,No,2025-02-15T11:15:00+00:00,2025-02-16T23:15:00+00:00
+M066,24,1 maart 2025,18:45,Go Ahead Eagles,PSV,@GAEagles,@PSV,No,No,No,Yes,2025-02-28T17:45:00+00:00,2025-03-02T05:45:00+00:00
+M067,24,2 maart 2025,12:15,SC Heerenveen,AZ,@scHeerenveen,@AZAlkmaar,Rivalry Match,No,No,No,2025-03-01T11:15:00+00:00,2025-03-02T23:15:00+00:00
+M068,25,7 maart 2025,20:00,NAC Breda,Sparta,@NACnl,@SpartaRotterdam,No,Yes,No,No,2025-03-06T19:00:00+00:00,2025-03-08T07:00:00+00:00
+M069,25,9 maart 2025,14:30,NEC,Go Ahead Eagles,@necnijmegen,@GAEagles,No,Yes,No,No,2025-03-08T13:30:00+00:00,2025-03-10T01:30:00+00:00
+M070,26,16 maart 2025,14:30,FC Twente,Feyenoord,@fctwente,@Feyenoord,Rivalry Match,No,No,No,2025-03-15T13:30:00+00:00,2025-03-17T01:30:00+00:00
+M071,26,16 maart 2025,16:45,Ajax,AZ,@AFCAjax,@AZAlkmaar,Derby/Rivalry Match,Yes,Yes,No,2025-03-15T15:45:00+00:00,2025-03-17T03:45:00+00:00
+M072,27,29 maart 2025,16:30,NAC Breda,FC Groningen,@NACnl,@fcgroningen,No,Yes,No,No,2025-03-28T15:30:00+00:00,2025-03-30T03:30:00+00:00
+M073,27,29 maart 2025,18:45,Willem II,Almere City FC,@WillemII,@AlmereCityFC,No,Yes,No,No,2025-03-28T17:45:00+00:00,2025-03-30T05:45:00+00:00
+M074,27,30 maart 2025,12:15,PEC Zwolle,RKC Waalwijk,@PECZwolle,@RKCWAALWIJK,No,Yes,No,No,2025-03-29T10:15:00+00:00,2025-03-30T22:15:00+00:00
+M075,27,30 maart 2025,14:30,PSV,Ajax,@PSV,@AFCAjax,Derby/Rivalry Match,No,Yes,No,2025-03-29T12:30:00+00:00,2025-03-31T00:30:00+00:00
+M076,27,30 maart 2025,16:45,Heracles Almelo,FC Twente,@HeraclesAlmelo,@fctwente,Derby/Rivalry Match,No,No,No,2025-03-29T14:45:00+00:00,2025-03-31T02:45:00+00:00
+M077,28,5 april 2025,16:30,AZ,Feyenoord,@AZAlkmaar,@Feyenoord,Derby/Rivalry Match,No,No,No,2025-04-04T14:30:00+00:00,2025-04-06T02:30:00+00:00
+M078,28,6 april 2025,14:30,Sparta,NEC,@SpartaRotterdam,@necnijmegen,No,Yes,No,No,2025-04-05T12:30:00+00:00,2025-04-07T00:30:00+00:00
+M079,29,12 april 2025,16:30,Fortuna Sittard,Feyenoord,@FortunaSittard,@Feyenoord,No,Yes,No,No,2025-04-11T14:30:00+00:00,2025-04-13T02:30:00+00:00
