@@ -2,7 +2,7 @@
 
 This repository contains a software tool that combines Natural Language Processing (NLP) and Social Network Analysis (SNA) to detect, track, and visualize the spread of toxicity in Dutch Eredivisie-related Twitter communities during emotionally charged football events.
 
-The project was developed as part of a Master’s thesis at the University of Applied Sciences Amsterdam and is specifically focused on tool development — not on analyzing or interpreting the social behavior itself. The system provides a modular pipeline for data collection, toxicity classification, network construction, and interactive visualization.
+The project was developed as part of a Master’s thesis at the University of Applied Sciences Amsterdam and is specifically focused on tool development, not on analyzing or interpreting the social behavior itself. The system provides a modular pipeline for data collection, toxicity classification, network construction, and interactive visualization.
 
 ---
 
@@ -24,12 +24,16 @@ The project was developed as part of a Master’s thesis at the University of Ap
 
 **Notebooks/**
 - `NLP_Notebook.ipynb` – Toxicity classification pipeline
-- `SNA_TestV2.ipynb` – Full SNA pipeline with interactive dashboard
+- `SNA_TestV2.ipynb` – SNA pipeline 
 - `merge_scraped_tweets.ipynb` – Merges multi-layered tweet data
 - `prepare_match_metadata.ipynb` – Cleans and aligns match metadata
+- `SNA_dashboard.ipynb` – Main interface for launching the interactive dashboard
 
 **Scraper/**
 - `Eredivisie_scraperV2.py` – Selenium scraper for Nitter (non-API access)
+
+**Dashboard/**
+- `dashboard.py` – Contains all visualization and analysis functions used by the dashboard
 
 **Document/**
 - `Thesis report` – Final report and/or visual materials
@@ -93,7 +97,13 @@ If you'd like to reproduce or adapt the dataset for a different season, you can 
      > This notebook applies toxicity classification to all merged tweets using a pre-trained model. It adds toxicity scores and categories to the dataset, preparing it for network analysis.
    
    - `SNA_TestV2.ipynb`  
-     > This is the final analysis notebook. It builds the social network graphs, applies community detection, calculates network metrics, and provides an interactive dashboard to explore toxicity patterns across matches and clubs.
+     > Used for exploratory SNA analysis: graph metrics, community detection, and testing SNA logic before integrating into the dashboard.
+
+   - `dashboard.py`  
+     > All the functions for the interactive dashboard
+
+   - `SNA_dashboard.ipynb`  
+     > Launches the interactive dashboard. All underlying functions are imported from `dashboard.py`.
 
 The final notebook contains the interactive dashboard where you can visualize toxicity across matchdays and clubs, filter by threshold, explore communities, and export figures.
 
